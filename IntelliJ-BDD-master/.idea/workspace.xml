@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b9b7a109-1641-4c32-aae6-dd31ce34cddf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="C:\Program Files\Git\git-bash.exe" />
+  </component>
+  <component name="ProjectId" id="1YSvjhNQRGFdn5HzsCoBSZE5Dcm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\AJ\Desktop\Intellij Project\Hackathon" />
+      <recent name="C:\Users\AJ\Desktop\Intellij Project\Hackathon\src\main\java" />
+      <recent name="C:\Users\AJ\Desktop\Intellij Project\Hackathon\src\test" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Base" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\AJ\Desktop\Intellij Project\Hackathon\src\test\resources" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn compile" />
+      <command value="mvn " />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.CucumberRunnerTest">
+    <configuration name="Scenario: Verify user is at dashboard search page" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/Features/SearchPage.feature" />
+      <option name="GLUE" value="StepsDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Hackathon" />
+      <option name="NAME_FILTER" value="^Verify user is at dashboard search page$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^Verify user is at dashboard search page$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify user is at dashboard search page" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in Hackathon" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Hackathon" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CucumberRunnerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Hackathon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Base" />
+      <option name="MAIN_CLASS_NAME" value="Base.CucumberRunnerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CucumberRunnerTest" />
+        <item itemvalue="JUnit.All in Hackathon" />
+        <item itemvalue="Cucumber java.Scenario: Verify user is at dashboard search page" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9b7a109-1641-4c32-aae6-dd31ce34cddf" name="Default Changelist" comment="" />
+      <created>1582948946516</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582948946516</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="858" y="178" key="#Scenario:_Verify_user_is_at_dashboard_search_page" timestamp="1582970546463">
+      <screen x="0" y="0" width="1848" height="1080" />
+    </state>
+    <state x="858" y="178" key="#Scenario:_Verify_user_is_at_dashboard_search_page/0.0.1848.1080@0.0.1848.1080" timestamp="1582970546463" />
+    <state x="875" y="311" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582968164665">
+      <screen x="0" y="0" width="1848" height="1080" />
+    </state>
+    <state x="875" y="311" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1848.1080@0.0.1848.1080" timestamp="1582968164665" />
+    <state x="679" y="376" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1582957309169">
+      <screen x="0" y="0" width="1848" height="1080" />
+    </state>
+    <state x="679" y="376" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1848.1080@0.0.1848.1080" timestamp="1582957309169" />
+    <state x="576" y="469" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1582980058229">
+      <screen x="0" y="0" width="1848" height="1080" />
+    </state>
+    <state x="576" y="469" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1848.1080@0.0.1848.1080" timestamp="1582980058229" />
+    <state x="725" y="429" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1582980039186">
+      <screen x="0" y="0" width="1848" height="1080" />
+    </state>
+    <state x="725" y="429" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1848.1080@0.0.1848.1080" timestamp="1582980039186" />
+    <state x="1166" y="288" key="FileChooserDialogImpl" timestamp="1582985336365">
+      <screen x="0" y="0" width="1848" height="1080" />
+    </state>
+    <state x="1166" y="288" key="FileChooserDialogImpl/0.0.1848.1080@0.0.1848.1080" timestamp="1582985336365" />
+    <state x="750" y="457" key="Github.CreateGistDialog" timestamp="1582984443553">
+      <screen x="0" y="0" width="1848" height="1080" />
+    </state>
+    <state x="750" y="457" key="Github.CreateGistDialog/0.0.1848.1080@0.0.1848.1080" timestamp="1582984443553" />
+    <state width="439" height="295" key="GridCell.Tab.0.bottom" timestamp="1582985147113">
+      <screen x="0" y="0" width="1848" height="1080" />
+    </state>
+    <state width="439" height="295" key="GridCell.Tab.0.bottom/0.0.1848.1080@0.0.1848.1080" timestamp="1582985147113" />
+    <state width="439" height="295" key="GridCell.Tab.0.center" timestamp="1582985147112">
+      <screen x="0" y="0" width="1848" height="1080" />
+    </state>
+    <state width="439" height="295" key="GridCell.Tab.0.center/0.0.1848.1080@0.0.1848.1080" timestamp="1582985147112" />
+    <state width="439" height="295" key="GridCell.Tab.0.left" timestamp="1582985147112">
+      <screen x="0" y="0" width="1848" height="1080" />
+    </state>
+    <state width="439" height="295" key="GridCell.Tab.0.left/0.0.1848.1080@0.0.1848.1080" timestamp="1582985147112" />
+    <state width="439" height="295" key="GridCell.Tab.0.right" timestamp="1582985147112">
+      <screen x="0" y="0" width="1848" height="1080" />
+    </state>
+    <state width="439" height="295" key="GridCell.Tab.0.right/0.0.1848.1080@0.0.1848.1080" timestamp="1582985147112" />
+    <state width="1805" height="364" key="GridCell.Tab.1.bottom" timestamp="1582978882402">
+      <screen x="0" y="0" width="1848" height="1080" />
+    </state>
+    <state width="1805" height="364" key="GridCell.Tab.1.bottom/0.0.1848.1080@0.0.1848.1080" timestamp="1582978882402" />
+    <state width="1805" height="364" key="GridCell.Tab.1.center" timestamp="1582978882402">
+      <screen x="0" y="0" width="1848" height="1080" />
+    </state>
+    <state width="1805" height="364" key="GridCell.Tab.1.center/0.0.1848.1080@0.0.1848.1080" timestamp="1582978882402" />
+    <state width="1805" height="364" key="GridCell.Tab.1.left" timestamp="1582978882402">
+      <screen x="0" y="0" width="1848" height="1080" />
+    </state>
+    <state width="1805" height="364" key="GridCell.Tab.1.left/0.0.1848.1080@0.0.1848.1080" timestamp="1582978882402" />
+    <state width="1805" height="364" key="GridCell.Tab.1.right" timestamp="1582978882402">
+      <screen x="0" y="0" width="1848" height="1080" />
+    </state>
+    <state width="1805" height="364" key="GridCell.Tab.1.right/0.0.1848.1080@0.0.1848.1080" timestamp="1582978882402" />
+    <state x="425" y="182" key="SettingsEditor" timestamp="1582985363868">
+      <screen x="0" y="0" width="1848" height="1080" />
+    </state>
+    <state x="425" y="182" key="SettingsEditor/0.0.1848.1080@0.0.1848.1080" timestamp="1582985363868" />
+    <state x="580" y="250" width="672" height="677" key="run.anything.popup" timestamp="1582978882386">
+      <screen x="0" y="0" width="1848" height="1080" />
+    </state>
+    <state x="580" y="250" width="672" height="677" key="run.anything.popup/0.0.1848.1080@0.0.1848.1080" timestamp="1582978882386" />
+    <state x="797" y="165" width="672" height="676" key="search.everywhere.popup" timestamp="1582971357965">
+      <screen x="0" y="0" width="1848" height="1080" />
+    </state>
+    <state x="797" y="165" width="672" height="676" key="search.everywhere.popup/0.0.1848.1080@0.0.1848.1080" timestamp="1582971357965" />
+  </component>
+</project>
